@@ -1,1 +1,1 @@
-Build system using browsersync etc.
+Build system using grunt, browsersync, grunt-include-replace, grunt-watch & grunt-copy.
